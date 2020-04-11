@@ -23,4 +23,4 @@
 When testing this script on several sites with efficient servers, I was able to crawl several thousand URLs a minute. 
 
 ### Comment
-I found the assignment really interesting and have completed it in 3 hours. Thank you for the taking time to review the code and giving me this opportunity. 
+I found the assignment really interesting and have worked on it for approximately 3 hours. Thank you for the taking time to review the code and giving me this opportunity. 
