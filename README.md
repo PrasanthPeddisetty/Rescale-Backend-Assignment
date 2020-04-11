@@ -1,6 +1,6 @@
 # Rescale-Backend-Assignment
 
-##Build Your Own Web Crawler
+## Build Your Own Web Crawler
 
 ## Description
 - `web_crawler.py`: Source code file for the main application
@@ -19,7 +19,7 @@
 - Finally, The run_scraper function brings all of our previous work together and manages our thread pool.
 
 
-##Performance
+## Performance
 When testing this script on several sites with efficient servers, I was able to crawl several thousand URLs a minute. 
 
 ### Comment
